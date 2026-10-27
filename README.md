@@ -25,7 +25,8 @@ A collection of Python projects completed as part of the Datheon Object-Oriented
 - Account-level currency support and transaction records
 - Unit tests and usage examples
 
-**Project files:** [`oop_banking_ledger_project/`](./oop_banking_ledger_project/)
+**Project files:** [oop_banking_ledger_project (1)]
+
 
 ### Task 2 — SOLID Notification & Alert Dispatch Framework
 
